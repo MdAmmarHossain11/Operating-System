@@ -1,0 +1,18 @@
+
+
+    1. Introduction (4 marks): 
+        Basic idea on Multiprocessor system, Clustered system, Multiprogramming, multi tasking
+        I/O handling methods: Polling, Interrupt driven, their pros and cons
+        Memory device hierarchy and their basic idea
+
+    2. Process and Process API (10 marks):
+        Basic idea of Program and Process, Process State, Process Control Block
+        Virtual Memory
+        Fork, wait and exec system calls
+    3. Scheduling (6 marks):
+        FIFO, SJF, STCF and RR algorithms
+        Turnaround time, Response time
+    4. Inter Process Communication (IPC) (10 marks):
+        Basic idea on concurrency, mutual exclusion, conditional variables, wait and signal function
+        Clear understanding of Producer Consumer Problem
+
