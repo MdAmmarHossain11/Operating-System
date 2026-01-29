@@ -2,13 +2,9 @@
 
 Welcome to the **Operating System (OS) Course Materials Repository**. This repository serves as a centralized and well-organized collection of all essential resources required to study and master the Operating System course. It is designed to support students throughout the trimester/semester and help them prepare effectively for quizzes, class tests, midterms, and final examinations.
 
----
-
 ## Repository Purpose
 
 The main objective of this repository is to provide students with a **one-stop learning resource** where they can find all academic materials related to the Operating System course in one place. Instead of searching across multiple sources, learners can rely on this repository for structured and reliable content.
-
----
 
 ## What This Repository Contains
 
@@ -58,8 +54,6 @@ Operating-System-Repository/
 └── Final-Questions/
 ```
 
----
-
 ## Who Can Use This Repository
 
 * University Students
@@ -67,7 +61,6 @@ Operating-System-Repository/
 * Beginners learning Operating Systems
 * Anyone preparing for OS exams
 
----
 
 ## How to Use
 
@@ -77,13 +70,9 @@ Operating-System-Repository/
 4. Practice **Important Problems**.
 5. Solve **CT, Mid, and Final Questions** to prepare for exams.
 
----
-
 ## Support ⭐
 
 If this repository helps you, consider giving it a **star** to support the project.
-
----
 
 ## Contact
 
