@@ -19,8 +19,6 @@ The main objective of this repository is to provide students with a **one-stop l
 * ✅ Final Exam Questions with Solutions
 * ✅ Additional Practice Problems
 
----
-
 ## Topics Covered
 
 * Introduction to Operating Systems
@@ -35,8 +33,6 @@ The main objective of this repository is to provide students with a **one-stop l
 * Disk Scheduling
 * Input/Output Systems
 * Security and Protection
-
----
 
 ## Folder Structure (Example)
 
