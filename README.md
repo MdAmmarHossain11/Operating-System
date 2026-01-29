@@ -37,17 +37,17 @@ The main objective of this repository is to provide students with a **one-stop l
 ## Folder Structure (Example)
 
 ```
-Operating-System-Repository/
+Operating-System/
 │
-├── Course-Outline/
-├── Hand-Notes/
-├── Lecture-Slides/
-├── Books/
-├── Video-Links/
-├── Important-Problems/
-├── CT-Questions/
-├── Mid-Questions/
-└── Final-Questions/
+├── CT with Solve/
+├── Final Question with Solution/
+├── Final Slides/
+├── Mid Question with Solution/
+├── Mid Slides/
+├── Course_Outline_252_CSE4509_G_ARnA.docx
+├── Main Lecture Book Remzi H Arpaci-Dusseau, Andrea C Arpaci-Dusseau - Operating Systems_ Three Easy Pieces-CreateSpace Independent Publishing Platform (2020).pdf
+├── OS Online Class Link Anik Sir.txt
+└── README.md
 ```
 
 ## Who Can Use This Repository
