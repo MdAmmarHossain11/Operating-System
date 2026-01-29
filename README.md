@@ -1,5 +1,3 @@
-# Operating-System
-
 # Operating System (OS) Course Materials ✨
 
 Welcome to the **Operating System (OS) Course Materials Repository**. This repository serves as a centralized and well-organized collection of all essential resources required to study and master the Operating System course. It is designed to support students throughout the trimester/semester and help them prepare effectively for quizzes, class tests, midterms, and final examinations.
